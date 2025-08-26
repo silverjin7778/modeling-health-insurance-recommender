@@ -27,7 +27,7 @@
   - [4-3. 질병 판정 기준](#4-3-질병-판정-기준)
 - [5. 파일 구조](#5-파일-구조)
 - [6. 회고](#6-회고)
-- [7. 🎤발표자료&시연영상](#7-🎤발표자료시연영상)
+- [7. 발표자료&시연영상](#7-발표자료시연영상)
   
   
   ---
@@ -230,6 +230,6 @@
 
 ---
 
-## 7. 🎤발표자료&시연영상
+## 7. 발표자료&시연영상
    - 📑 [최종 발표 PPT](https://drive.google.com/file/d/1H2COW8jxAaqs5MaYPEMawZ4JNzRLFt8r/view?usp=sharing)
    - 🎬 [시연영상](https://drive.google.com/file/d/1Tcm_Ir1l6guz088wC92TU5El6iM21QMv/view?usp=sharing)
